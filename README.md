@@ -1,7 +1,5 @@
 # DAO Test Project By Ian Miller
 
-_This has been updated to work with Goerli over Rinkeby_
-
 <div id="top"></div>
 
 - [DAO Template](#dao-template)
@@ -26,7 +24,7 @@ _This has been updated to work with Goerli over Rinkeby_
 
 ## About
 
-### How to DAO
+### How to DAO tutorials
 
 This repo is meant to give you all the knowledge you need to start a DAO and do governance. Since what's the point of a DAO if you can't make any decisions! There are 2 main kinds of doing governance.
 
