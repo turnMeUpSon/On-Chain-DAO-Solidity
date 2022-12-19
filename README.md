@@ -22,7 +22,7 @@ _This has been updated to work with Goerli over Rinkeby_
 
 [You can also see the python/brownie version of this here.](https://github.com/brownie-mix/dao-mix)
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT My PROJECT -->
 
 ## About
 
